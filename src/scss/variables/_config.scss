@@ -1,7 +1,7 @@
 $config: (
         grid: (
                 columnCount: 12,
-                breakpoints: (
+                breakpoint: (
                         mobile: 640px,
                         tablet: 960px,
                         desktop: 1280px
@@ -9,7 +9,7 @@ $config: (
         ),
         container: (
                 classname: container,
-                maxWidth: 1280,
+                maxWidth: 1280px,
                 padding: (
                         default: 5px,
                         mobile: 6px,
