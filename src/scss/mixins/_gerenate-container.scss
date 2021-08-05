@@ -12,9 +12,11 @@
     @include mobile-up {
       padding: var(container-padding-mobile);
     }
+
     @include tablet-up {
       padding: var(container-padding-tablet);
     }
+
     @include desktop-up {
       padding: var(container-padding-desktop);
     }
